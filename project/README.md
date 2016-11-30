@@ -11,9 +11,9 @@ These are the instructions how the game will play once it is initiated and you w
 
 Afterwards the game will be in full swing and the following controls will assist the player in moving the paddle.
 
--BTN1 -Will move the paddle to the left.
--BTN4 -Will move the paddle to the right.
--BTN2 -Will return you to the main menu.
+- BTN1 -Will move the paddle to the left.
+- BTN4 -Will move the paddle to the right.
+- BTN2 -Will return you to the main menu.
 
 ## Files In This Directory
 This program contains the following files:
